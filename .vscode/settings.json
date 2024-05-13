@@ -1,5 +1,6 @@
 {
-    "workbench.colorTheme": "Default High Contrast Light",
+    "workbench.colorTheme": "Default Light Modern",
     "editor.fontSize": 20,
-    "terminal.integrated.fontSize": 20
+    "terminal.integrated.fontSize": 20,
+    "editor.bracketPairColorization.enabled": false
 }
